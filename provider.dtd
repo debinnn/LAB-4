@@ -1,0 +1,12 @@
+<!ELEMENT agroProviders (provider+)>
+    
+<!ELEMENT provider (name, phone, email , address, price, rating, longitude, latitude)>
+<!ATTLIST provider id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>  
+<!ELEMENT address (#PCDATA)>   
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT longitude (#PCDATA)>
+<!ELEMENT latitude (#PCDATA)>

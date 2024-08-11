@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="provider.xsl" type="text/xsl" ?>
+<agro:agroProviders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agro="http://www.example.com/provider" xsi:schemaLocation="http://www.example.com/provider provider.xsd">
+    <agro:provider id="p1">
+        <agro:name>Fresh Fields</agro:name>
+        <agro:phone>321-654-9870</agro:phone>
+        <agro:email>fresh.fields@example.com</agro:email>
+        <agro:address>123 Apple St, Orchard Town, OT, 54321</agro:address>
+        <agro:price>14</agro:price>
+        <agro:rating>4.4</agro:rating>
+        <agro:longitude>77.2045</agro:longitude>
+        <agro:latitude>28.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p2">
+        <agro:name>Healthy Harvest</agro:name>
+        <agro:phone>322-655-9871</agro:phone>
+        <agro:email>healthy.harvest@example.com</agro:email>
+        <agro:address>456 Elm St, Harvest City, HC, 23456</agro:address>
+        <agro:price>13</agro:price>
+        <agro:rating>4.7</agro:rating>
+        <agro:longitude>75.3045</agro:longitude>
+        <agro:latitude>27.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p3">
+        <agro:name>Green Grocers</agro:name>
+        <agro:phone>323-656-9872</agro:phone>
+        <agro:email>green.grocers@example.com</agro:email>
+        <agro:address>789 Birch Rd, Green City, GC, 67890</agro:address>
+        <agro:price>11</agro:price>
+        <agro:rating>4.3</agro:rating>
+        <agro:longitude>77.8045</agro:longitude>
+        <agro:latitude>28.6042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p4">
+        <agro:name>Nature's Best</agro:name>
+        <agro:phone>324-657-9873</agro:phone>
+        <agro:email>natures.best@example.com</agro:email>
+        <agro:address>101 Maple Ln, Nature Town, NT, 34567</agro:address>
+        <agro:price>12</agro:price>
+        <agro:rating>4.5</agro:rating>
+        <agro:longitude>76.2045</agro:longitude>
+        <agro:latitude>29.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p5">
+        <agro:name>Urban Farm</agro:name>
+        <agro:phone>325-658-9874</agro:phone>
+        <agro:email>urban.farm@example.com</agro:email>
+        <agro:address>202 Cedar St, Urban Town, UT, 45678</agro:address>
+        <agro:price>15</agro:price>
+        <agro:rating>4.8</agro:rating>
+        <agro:longitude>77.5045</agro:longitude>
+        <agro:latitude>30.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p6">
+        <agro:name>Farm Fresh</agro:name>
+        <agro:phone>326-659-9456</agro:phone>
+        <agro:email>farm.fresh@example.com</agro:email>
+        <agro:address>303 Pine St, Fresh City, FC, 56789</agro:address>
+        <agro:price>17</agro:price>
+        <agro:rating>4.6</agro:rating>
+        <agro:longitude>78.6045</agro:longitude>
+        <agro:latitude>31.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p7">
+        <agro:name>Harvest Delight</agro:name>
+        <agro:phone>327-660-9876</agro:phone>
+        <agro:email>harvest.delight@example.com</agro:email>
+        <agro:address>404 Elm St, Delight Town, DT, 67890</agro:address>
+        <agro:price>19</agro:price>
+        <agro:rating>4.7</agro:rating>
+        <agro:longitude>79.7045</agro:longitude>
+        <agro:latitude>32.8042</agro:latitude>
+    </agro:provider>
+    <agro:provider id="p8">
+        <agro:name>Good Greens</agro:name>
+        <agro:phone>328-661-9877</agro:phone>
+        <agro:email>good.greens@example.com</agro:email>
+        <agro:address>505 Birch St, Greenfield, GF, 78901</agro:address>
+        <agro:price>14</agro:price>
+        <agro:rating>4.5</agro:rating>
+        <agro:longitude>80.8045</agro:longitude>
+        <agro:latitude>33.8042</agro:latitude>
+    </agro:provider>
+</agro:agroProviders>
